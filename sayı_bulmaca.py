@@ -7,7 +7,6 @@ import random
 
 try:
     rasgtele_sayi = random.randint(1, 100)
-    print(rasgtele_sayi)
     count = 0
     sayı_bilindi_mi = False
     while sayı_bilindi_mi == False:
